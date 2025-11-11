@@ -114,25 +114,9 @@ I follow best practices to ensure maintainable, scalable, and efficient software
 ## ⚡ Fun Fact  
 I’m a passionate **cricket & football lover**, a **tech blog reader**, and I enjoy solving **algorithmic challenges** to sharpen my problem-solving skills.  
 
----
-
-## 📊 GitHub Insights  
-
-![Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=web-jamil&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=web-jamil&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=web-jamil&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=web-jamil&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## 💡 What Excites Me  
 🔥 Building **scalable & maintainable** full-stack applications  
 🤖 Exploring **AI/ML applications** in real-world development  
 📊 Analyzing **data-driven insights** with Python & ML  
 🤝 Collaborating to create **innovative, community-driven projects**
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing+together!+💻" alt="Typing SVG" />
-</p>
